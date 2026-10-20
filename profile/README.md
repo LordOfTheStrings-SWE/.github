@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Logo di Lord of the Strings" width="128">
+  <img src="assets/logo.jpeg" alt="Logo di Lord of the Strings" width="128">
 </p>
 
 <h1 align="center">Lord of the Strings</h1>
@@ -14,7 +14,7 @@ di Ingegneria del Software per l'anno accademico 2026-2027.
 
 ## Repository
 
-- **Documentazione** - contiene tutta la documentazione prodotta durante il progetto
+- [Documentazione](https://github.com/Error-418-SWE/Documenti): contiene tutta la documentazione prodotta durante il progetto
 
 ## Membri del gruppo
 
