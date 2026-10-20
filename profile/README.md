@@ -14,7 +14,7 @@ di Ingegneria del Software per l'anno accademico 2026-2027.
 
 ## Repository
 
-- [Documentazione](https://github.com/Error-418-SWE/Documenti): contiene tutta la documentazione prodotta durante il progetto
+- [Documentazione](https://github.com/LordOfTheStrings-SWE/Documentazione): contiene tutta la documentazione prodotta durante il progetto
 
 ## Membri del gruppo
 
