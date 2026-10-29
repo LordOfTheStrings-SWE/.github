@@ -5,7 +5,7 @@
 <h1 align="center">Lord of the Strings</h1>
 
 <p align="center">
-  Gruppo 18 · Lord of Strings · Ingegneria del Software 2026-2027<br>
+  Gruppo 18 · Lord of the Strings · Ingegneria del Software 2026-2027<br>
   Università degli Studi di Padova
 </p>
 
@@ -26,7 +26,7 @@ di Ingegneria del Software per l'anno accademico 2026-2027.
 | Moro         | Michele          | 2148011   |
 | Sironi       | Stefano          | 2111037   |
 | Tuoni        | Angelo           | 2116405   |
-| Yi Ming      | Ye               | 2137995   |
+| Ye           | Yi Ming          | 2137995   |
 
 ## Contatti
 
