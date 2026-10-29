@@ -9,7 +9,7 @@
   Università degli Studi di Padova
 </p>
 
-Questo spazio raccoglie il lavoro svolto dal gruppo **Lord of Strings** nell'ambito del corso
+Questo spazio raccoglie il lavoro svolto dal gruppo **Lord of the Strings** nell'ambito del corso
 di Ingegneria del Software per l'anno accademico 2026-2027.
 
 ## Repository
